@@ -28,3 +28,5 @@ Dependiendo del tiempo y el ritmo, usaremos [Anaconda Python 3.5.1 distribution]
 Este taller está basado en parte en el [Curso de Introducción a Python para Ingenieros de AeroPython](https://github.com/AeroPython/Curso_AeroPython) y sus variantes que ha sido impartido en torno a quince veces en cinco universidades diferentes.
 
 [Síguenos en Twitter](https://twitter.com/AeroPython)
+
+<img src="./static/aeropython_name_mini.png" alt="AeroPython" align="center" style="width: 300px;"/>
