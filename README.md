@@ -7,6 +7,7 @@
 
 Hola futuros pythonistas! Bienvenidos a nuestro *Taller de introducción a la programación en Python* organizado para la zona Madrid del PyDay 2016, orientado a aquellos que aún estén empezando con el lenguaje, o que estén interesados en aprender a programar.
 
+Si quieres seguir el taller por tu cuenta, o has olvidado cómo descargar o abrir los notebooks, recuerda que tienes unas instrucciones claras en [el tema 0 del curso Aeropython](http://nbviewer.jupyter.org/github/AeroPython/Curso_AeroPython/blob/master/notebooks_completos/Clase0_Bienvenido.ipynb).
 
 
 ## Descripción
